@@ -1,4 +1,4 @@
-<h1 align="center">Please give it a Star if you like the project 🎉 ❤️ <h1>
+Please give it a Star if you like the project 🎉 ❤️ 
 
 # EkoDB - A NoSQL Database made using PHP
 
