@@ -1,9 +1,5 @@
 <h1 align="center">Please give it a Star if you like the project 🎉 ❤️ <h1>
 
-<p align="center">
-<a href="https://sleekdb.github.io/"><img src="https://sleekdb.github.io/assets/SleekDB-Logo.jpg"></a>
-</p>
-
 # SleekDB - A NoSQL Database made using PHP
 
 ## Full documentation: https://sleekdb.github.io/
