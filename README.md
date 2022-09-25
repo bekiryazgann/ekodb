@@ -1,10 +1,8 @@
 <h1 align="center">Please give it a Star if you like the project 🎉 ❤️ <h1>
 
-# SleekDB - A NoSQL Database made using PHP
+# EkoDB - A NoSQL Database made using PHP
 
-## Full documentation: https://sleekdb.github.io/
-
-SleekDB is a simple flat file NoSQL like database implemented in PHP without any third-party dependencies that store data in plain JSON files.
+EkoDB is a simple flat file NoSQL like database implemented in PHP without any third-party dependencies that store data in plain JSON files.
 
 It is not designed to handle heavy-load IO operations, it is designed to have a simple solution where all we need a database for managing a few gigabytes of data. You can think of it as a database for low to medium operation loads.
 
@@ -16,7 +14,7 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
 
 - 🔆 **Schema free data storage**
 
-  SleekDB does not require any schema, so you can insert any types of data you want.
+  EkoDB does not require any schema, so you can insert any types of data you want.
 
 - 🔍 **Query on nested properties**
 
@@ -26,7 +24,7 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
   where( 'post.author.role', '=', 'admin' )
   ```
 
-  SleekDB will look for data at:
+  EkoDB will look for data at:
 
   ```php
   {
@@ -44,7 +42,7 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
 
 - 🚀 **Default caching layer**
 
-  SleekDB will serve data from cache by default and regenerate cache automatically! Query results will be cached and later reused from a single file instead of traversing all the available files.
+  EkoDB will serve data from cache by default and regenerate cache automatically! Query results will be cached and later reused from a single file instead of traversing all the available files.
 
 - 🌈 **Rich Conditions and Filters**
 
