@@ -1,6 +1,6 @@
 {
-    "name": "rakibtg/sleekdb",
-    "description": "SleekDB - A 30Kb NoSQL Database made using PHP",
+    "name": "bekiryazgann/ekodb",
+    "description": "NoSQL Database with PHP infrastructure",
     "keywords": [
         "framework",
         "nosql",
@@ -16,8 +16,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "rakibtg",
-            "email": "rakibtg@gmail.com"
+            "name": "Ebubekir Yazgan",
+            "email": "yazganebubekir4@gmail.com"
         }
     ],
     "require": {
