@@ -114,5 +114,4 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
 
 - 💪 **Actively maintained**
 
-  <p>EkoDB is created by <a rel="noopener nofollow" href="https://twitter.com/_bekiryazgann" target="_blank">@_bekiryazgann</a> who is using it in various types of applications which are in production right now. Our other contributor and active maintainer is <a rel="noopener nofollow" href="https://www.goodsoft.de" target="_blank">Timucin</a> who is making SleekDB much better in terms of code quality and new features.</p>
-
+  <p>EkoDB is created by <a rel="noopener nofollow" href="https://twitter.com/_bekiryazgann" target="_blank">@_bekiryazgann</a> who is using it in various types of applications which are in production right now.
