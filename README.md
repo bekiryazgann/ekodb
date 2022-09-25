@@ -97,7 +97,7 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
 
 - 👍 **Process data on demand**
   
-  SleekDB does not require any background process or network protocol in order to process data when you use it in a PHP project. All data for a query will be fetched at runtime within the same PHP process.
+  EkoDB does not require any background process or network protocol in order to process data when you use it in a PHP project. All data for a query will be fetched at runtime within the same PHP process.
 
 - 😍 **Runs everywhere**
   
@@ -106,18 +106,13 @@ It is not designed to handle heavy-load IO operations, it is designed to have a 
 
 - 🍰 **Easy to learn and implement**
 
-  SleekDB provides a very simple elegant API to handle all of your data.
+  EkoDB provides a very simple elegant API to handle all of your data.
 
 - 🍰 **Easily import/export or backup data**
   
-  SleekDB use files to store information. That makes tasks like backup, import and export very easy.
+  EkoDB use files to store information. That makes tasks like backup, import and export very easy.
 
 - 💪 **Actively maintained**
 
-  <p>SleekDB is created by <a rel="noopener nofollow" href="https://twitter.com/rakibtg" target="_blank">@rakibtg</a> who is using it in various types of applications which are in production right now. Our other contributor and active maintainer is <a rel="noopener nofollow" href="https://www.goodsoft.de" target="_blank">Timucin</a> who is making SleekDB much better in terms of code quality and new features.</p>
+  <p>EkoDB is created by <a rel="noopener nofollow" href="https://twitter.com/_bekiryazgann" target="_blank">@_bekiryazgann</a> who is using it in various types of applications which are in production right now. Our other contributor and active maintainer is <a rel="noopener nofollow" href="https://www.goodsoft.de" target="_blank">Timucin</a> who is making SleekDB much better in terms of code quality and new features.</p>
 
-- 📔 **Well documented**
-  
-  The <a href="https://sleekdb.github.io/">official documentation of SleekDB</a> does not just provide a good api documentation. It is filled with examples!
-
-<h2 align="center">Visit our website https://sleekdb.github.io/ for documentation and getting started guide.</h2>
