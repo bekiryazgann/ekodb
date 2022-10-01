@@ -112,7 +112,7 @@
 
 			
 			$key = hexdec(crc32(md5($username . $password)));
-			self::$key = $key;
+			$this->key = $key;
 			IoHelper::setKey($key);
 
 
