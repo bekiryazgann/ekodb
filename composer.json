@@ -10,7 +10,7 @@
         "rest",
         "api",
         "micro",
-        "SleekDB"
+        "EkoDb"
     ],
     "type": "library",
     "license": "MIT",
@@ -31,12 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SleekDB\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "SleekDB\\Tests\\": "tests/"
+            "EkoDb\\": "src/"
         }
     },
     "scripts": {

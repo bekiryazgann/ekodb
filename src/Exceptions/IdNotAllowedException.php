@@ -1,7 +1,7 @@
 <?php
-
-namespace SleekDB\Exceptions;
-
-class IdNotAllowedException extends \Exception
-{
-}
+	
+	namespace EkoDb\Exceptions;
+	
+	class IdNotAllowedException extends \Exception
+	{
+	}

@@ -1,7 +1,7 @@
 <?php
-
-namespace SleekDB\Exceptions;
-
-class InvalidConfigurationException extends \Exception
-{
-}
+	
+	namespace EkoDb\Exceptions;
+	
+	class InvalidConfigurationException extends \Exception
+	{
+	}

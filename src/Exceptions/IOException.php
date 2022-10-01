@@ -1,7 +1,7 @@
 <?php
-
-namespace SleekDB\Exceptions;
-
-class IOException extends \Exception
-{
-}
+	
+	namespace EkoDb\Exceptions;
+	
+	class IOException extends \Exception
+	{
+	}

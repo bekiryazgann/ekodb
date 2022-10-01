@@ -1,7 +1,7 @@
 <?php
-
-namespace SleekDB\Exceptions;
-
-class InvalidArgumentException extends \Exception
-{
-}
+	
+	namespace EkoDb\Exceptions;
+	
+	class InvalidArgumentException extends \Exception
+	{
+	}
