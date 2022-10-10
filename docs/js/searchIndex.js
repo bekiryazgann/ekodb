@@ -366,6 +366,16 @@ Search.appendIndex(
             "summary": "Class\u0020IoHelper\nHelper\u0020to\u0020handle\u0020file\u0020input\/\u0020output.",
             "url": "classes/EkoDb-Classes-IoHelper.html"
         },                {
+            "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003AsetKey\u0028\u0029",
+            "name": "setKey",
+            "summary": "",
+            "url": "classes/EkoDb-Classes-IoHelper.html#method_setKey"
+        },                {
+            "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003AgetKey\u0028\u0029",
+            "name": "getKey",
+            "summary": "",
+            "url": "classes/EkoDb-Classes-IoHelper.html#method_getKey"
+        },                {
             "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003AcheckWrite\u0028\u0029",
             "name": "checkWrite",
             "summary": "",
@@ -425,6 +435,21 @@ Search.appendIndex(
             "name": "countFolderContent",
             "summary": "Returns\u0020the\u0020amount\u0020of\u0020files\u0020in\u0020folder.",
             "url": "classes/EkoDb-Classes-IoHelper.html#method_countFolderContent"
+        },                {
+            "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003Aencrypt\u0028\u0029",
+            "name": "encrypt",
+            "summary": "todo\u003A\u0020All\u0020write\u0020and\u0020read\u0020functions\u0020bas64_encode\u0020int\u0020its\u0020place\u0020\u0024this\u002D\u003Eencrypt\u0028\u0029",
+            "url": "classes/EkoDb-Classes-IoHelper.html#method_encrypt"
+        },                {
+            "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003Adecrypt\u0028\u0029",
+            "name": "decrypt",
+            "summary": "todo\u003A\u0020All\u0020write\u0020and\u0020read\u0020functions\u0020bas64_decode\u0020int\u0020its\u0020place\u0020\u0024this\u002D\u003Edecrypt\u0028\u0029",
+            "url": "classes/EkoDb-Classes-IoHelper.html#method_decrypt"
+        },                {
+            "fqsen": "\\EkoDb\\Classes\\IoHelper\u003A\u003A\u0024key",
+            "name": "key",
+            "summary": "",
+            "url": "classes/EkoDb-Classes-IoHelper.html#property_key"
         },                {
             "fqsen": "\\EkoDb\\Classes\\NestedHelper",
             "name": "NestedHelper",
@@ -763,12 +788,12 @@ Search.appendIndex(
         },                {
             "fqsen": "\\EkoDb\\Store\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
-            "summary": "Store\u0020constructor.",
+            "summary": "",
             "url": "classes/EkoDb-Store.html#method___construct"
         },                {
             "fqsen": "\\EkoDb\\Store\u003A\u003AchangeStore\u0028\u0029",
             "name": "changeStore",
-            "summary": "Change\u0020the\u0020destination\u0020of\u0020the\u0020store\u0020object.",
+            "summary": "",
             "url": "classes/EkoDb-Store.html#method_changeStore"
         },                {
             "fqsen": "\\EkoDb\\Store\u003A\u003AgetStoreName\u0028\u0029",
@@ -985,6 +1010,11 @@ Search.appendIndex(
             "name": "searchOptions",
             "summary": "",
             "url": "classes/EkoDb-Store.html#property_searchOptions"
+        },                {
+            "fqsen": "\\EkoDb\\Store\u003A\u003A\u0024key",
+            "name": "key",
+            "summary": "",
+            "url": "classes/EkoDb-Store.html#property_key"
         },                {
             "fqsen": "\\",
             "name": "\\",
